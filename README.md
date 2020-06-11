@@ -37,3 +37,12 @@
 | 与佛论禅  | http://www.keyfc.net/bbs/tools/tudoucode.aspx | -                          |
 | quipqiup  | https://quipqiup.com/                         | -                          |
 
+
+
+## 辅助类
+
+| 性质         | 网址                          | 备注 |
+| ------------ | ----------------------------- | ---- |
+| 选择许可协议 | http://choosealicense.online/ | 中文 |
+| 选择许可协议 | https://choosealicense.com/   | 英文 |
+
