@@ -12,11 +12,11 @@
 
 ## 线上教程
 
-| 性质                                   | 网址                                                      | 备注     |
-| -------------------------------------- | --------------------------------------------------------- | -------- |
-| 【Linux】The Linux Command Line 中文版 | https://www.kancloud.cn/thinkphp/linux-command-line/39431 | 注重理念 |
-| 【Linux】 Linux Tutorial               | https://turnon.gitee.io/linux-tutorial/                   | 注重指令 |
-| 【算法】数据结构与算法教程             | http://data.biancheng.net/                                |          |
+| 性质                                   | 网址                                                      | 备注       |
+| -------------------------------------- | --------------------------------------------------------- | ---------- |
+| 【Linux】The Linux Command Line 中文版 | https://www.kancloud.cn/thinkphp/linux-command-line/39431 | 注重理念   |
+| 【Linux】 Linux Tutorial               | https://turnon.gitee.io/linux-tutorial/                   | 注重指令   |
+| 【算法】数据结构与算法教程             | http://data.biancheng.net/                                | 部分需收费 |
 
 
 
