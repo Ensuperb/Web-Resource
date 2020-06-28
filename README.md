@@ -1,5 +1,7 @@
 # 网络资源
 
+> 本项目没有包含任何广告，只提供优质资源。
+
 ## 门户
 
 | 性质                   | 网站                                        | 备注 |
@@ -8,6 +10,16 @@
 | 【法律】罪名网         | http://www.zuiming.net/                     | -    |
 | 【医学】医学百科       | http://www.a-hospital.com/                  | -    |
 | 【文献】马克思主义文库 | https://www.marxists.org/chinese/index.html | -    |
+
+
+
+##　云课堂
+
+| 性质                | 网址                | 备注 |
+| ------------------- | ------------------- | ---- |
+| 【国外】mzed        | www.mzed.com        | -    |
+| 【国外】 SkillShare | www.skillshare.com  | -    |
+| 【国外】masterclass | www.masterclass.com | -    |
 
 
 
@@ -23,10 +35,11 @@
 
 ## Linux 工具类
 
-| 性质        | 网址                        | 备注 |
-| ----------- | --------------------------- | ---- |
-| Crontab预判 | https://crontab.guru/       | -    |
-| (未知)      | https://tail-f.shmakov.net/ | -    |
+| 性质             | 网址                        | 备注                   |
+| ---------------- | --------------------------- | ---------------------- |
+| Crontab预判      | https://crontab.guru/       | -                      |
+| (未知)           | https://tail-f.shmakov.net/ | -                      |
+| bashrc-generator | http://bashrcgenerator.com/ | 你值得自定义自己的终端 |
 
 
 
@@ -38,6 +51,7 @@
 | CyberChef | https://gchq.github.io/CyberChef/             | 进入速度慢，可转下载离线。 |
 | 与佛论禅  | http://www.keyfc.net/bbs/tools/tudoucode.aspx | -                          |
 | quipqiup  | https://quipqiup.com/                         | -                          |
+| factordb  | http://www.factordb.com/                      | 大质素分解                 |
 
 
 
