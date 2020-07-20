@@ -27,3 +27,12 @@
 | 【找图】unsplash         | https://unsplash.com/         | -                |
 | 【找图】Pixabay          | https://pixabay.com/          | -                |
 | 【找图】undraw           | https://undraw.co/            | 设计灵感         |
+
+
+
+## 文
+
+| 性质  | 网址                     | 备注             |
+| ----- | ------------------------ | ---------------- |
+| Pixiv | https://www.pixiv.net    | -                |
+| 知妖  | https://www.cbaigui.com/ | 收集中国古今妖怪 |
