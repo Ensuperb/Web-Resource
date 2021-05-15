@@ -11,6 +11,7 @@
 | 【医学】医学百科             | http://www.a-hospital.com/                  | -    |
 | 【文献】马克思主义文库       | https://www.marxists.org/chinese/index.html | -    |
 | 【法律】中华人民共和国民法典 | https://mfd.wiki/                           | -    |
+| 【标准】国家标准全文公开系统 | http://openstd.samr.gov.cn/bzgk/gb/index/ | -    |
 
 
 
